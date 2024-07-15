@@ -1,0 +1,3 @@
+[submodule "UniVTG_hugging"]
+	path = UniVTG_hugging
+	url = https://huggingface.co/spaces/KevinQHLin/UniVTG
